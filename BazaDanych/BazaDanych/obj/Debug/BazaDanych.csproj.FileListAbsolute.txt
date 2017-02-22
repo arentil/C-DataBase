@@ -1,0 +1,16 @@
+D:\Moje pliki\Studia gł folder\3 rok\3 rok 1 semestr\bazy danych\ćwiczenia\mysql projekt\BazaDanych\BazaDanych\bin\Debug\BazaDanych.exe.config
+D:\Moje pliki\Studia gł folder\3 rok\3 rok 1 semestr\bazy danych\ćwiczenia\mysql projekt\BazaDanych\BazaDanych\bin\Debug\BazaDanych.exe
+D:\Moje pliki\Studia gł folder\3 rok\3 rok 1 semestr\bazy danych\ćwiczenia\mysql projekt\BazaDanych\BazaDanych\bin\Debug\BazaDanych.pdb
+D:\Moje pliki\Studia gł folder\3 rok\3 rok 1 semestr\bazy danych\ćwiczenia\mysql projekt\BazaDanych\BazaDanych\bin\Debug\MySql.Data.dll
+D:\Moje pliki\Studia gł folder\3 rok\3 rok 1 semestr\bazy danych\ćwiczenia\mysql projekt\BazaDanych\BazaDanych\bin\Debug\MySql.Data.xml
+D:\Moje pliki\Studia gł folder\3 rok\3 rok 1 semestr\bazy danych\ćwiczenia\mysql projekt\BazaDanych\BazaDanych\obj\Debug\BazaDanych.csprojResolveAssemblyReference.cache
+D:\Moje pliki\Studia gł folder\3 rok\3 rok 1 semestr\bazy danych\ćwiczenia\mysql projekt\BazaDanych\BazaDanych\obj\Debug\BazaDanych.Form1.resources
+D:\Moje pliki\Studia gł folder\3 rok\3 rok 1 semestr\bazy danych\ćwiczenia\mysql projekt\BazaDanych\BazaDanych\obj\Debug\BazaDanych.Properties.Resources.resources
+D:\Moje pliki\Studia gł folder\3 rok\3 rok 1 semestr\bazy danych\ćwiczenia\mysql projekt\BazaDanych\BazaDanych\obj\Debug\BazaDanych.csproj.GenerateResource.Cache
+D:\Moje pliki\Studia gł folder\3 rok\3 rok 1 semestr\bazy danych\ćwiczenia\mysql projekt\BazaDanych\BazaDanych\obj\Debug\BazaDanych.exe
+D:\Moje pliki\Studia gł folder\3 rok\3 rok 1 semestr\bazy danych\ćwiczenia\mysql projekt\BazaDanych\BazaDanych\obj\Debug\BazaDanych.pdb
+D:\Moje pliki\Studia gł folder\3 rok\3 rok 1 semestr\bazy danych\ćwiczenia\mysql projekt\BazaDanych\BazaDanych\obj\Debug\BazaDanych.Connect.resources
+D:\Moje pliki\Studia gł folder\3 rok\3 rok 1 semestr\bazy danych\ćwiczenia\mysql projekt\BazaDanych\BazaDanych\obj\Debug\BazaDanych.CreateTable.resources
+D:\Moje pliki\Studia gł folder\3 rok\3 rok 1 semestr\bazy danych\ćwiczenia\mysql projekt\BazaDanych\BazaDanych\obj\Debug\BazaDanych.InsertRow.resources
+D:\Moje pliki\Studia gł folder\3 rok\3 rok 1 semestr\bazy danych\ćwiczenia\mysql projekt\BazaDanych\BazaDanych\obj\Debug\BazaDanych.NewTable.resources
+D:\Moje pliki\Studia gł folder\3 rok\3 rok 1 semestr\bazy danych\ćwiczenia\mysql projekt\BazaDanych\BazaDanych\obj\Debug\BazaDanych.Specify.resources
